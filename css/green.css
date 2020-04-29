@@ -1,0 +1,17 @@
+body{
+    background: url('../img/green.jpg');
+    background-attachment: fixed;
+}
+
+#logo{
+    background: #235D3D;  
+}
+
+#menu ul li:hover{
+    background: #235D3D;
+}
+
+.button-more{
+    background: #235D3D; 
+  
+}
